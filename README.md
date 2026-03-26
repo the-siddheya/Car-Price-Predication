@@ -46,14 +46,15 @@ This project aims to estimate used car prices by analyzing historical data using
 
 ## 📂 Project Structure
 
-
+```
 ├── app.py
 ├── CPP.pkl
+├── data.csv   
 ├── clean_data.csv
 ├── 01_eda_raw_data.ipynb
 ├── 02_data_preprocessing.ipynb
 ├── 03_model_inference.ipynb
-
+```
 
 ---
 
