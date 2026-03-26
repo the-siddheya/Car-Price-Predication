@@ -95,4 +95,4 @@ Model deployment using Streamlit
 Building real-world ML applications
 👨‍💻 Author
 
-Chaitanya Pitambare
+Siddheya Pitambare
